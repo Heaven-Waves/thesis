@@ -1,0 +1,3 @@
+[submodule "peripheral-node"]
+	path = peripheral-node
+	url = https://github.com/Heaven-Waves/peripheral-node
