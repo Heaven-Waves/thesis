@@ -1,0 +1,8 @@
+[submodule "peripheral-node"]
+	path = peripheral-node
+  url = https://github.com/Heaven-Waves/peripheral-node
+  branch = main
+[submodule "central-node"]
+	path = central-node
+  url = https://github.com/Heaven-Waves/central-node
+  branch = main
