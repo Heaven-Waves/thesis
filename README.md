@@ -10,3 +10,9 @@ In order to have the latest updates from both repositories you should execute
 git submodule update --remote --merge
 ```
 which will fetch the latest changes from upstream in each submodule, merge them in, and check out the latest revision of the submodule.
+
+## Documentation
+The thesis documentation written in Bulgarian can be found [here (pdf)](https://drive.google.com/file/d/1Jb9EJqSEHNwOiBE6UHU5dn2EMQyWCFWK/view?usp=drive_link).
+
+## Credits
+© Ivo Karaneshev
